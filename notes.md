@@ -21,3 +21,6 @@ https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/
 gradient backgroud of the wedding pictures 
 
 https://www.eggradients.com/gradient-color
+
+*slide annimation*
+https://www.youtube.com/watch?v=-pUEQDY9HV0&fbclid=IwAR1qBq8ktDxtH654kPw73URG1azHxnwNcQSRJQ6S-lHT0jMr_QgI8_xESUk
